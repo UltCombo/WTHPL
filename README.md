@@ -10,7 +10,7 @@ There is no license copyright, no software copyright, no copyright whatsoever! W
 
 # Using the WTHPL in your projects
 
-1. Copy the [`LICENSE` file](https://raw.githubusercontent.com/UltCombo/WTHPL/blob/master/LICENSE) to your project root.
+1. Copy the [`LICENSE` file](https://raw.githubusercontent.com/UltCombo/WTHPL/master/LICENSE) to your project root.
 - ???
 - PROFIT!
 
