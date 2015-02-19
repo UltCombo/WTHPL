@@ -11,11 +11,11 @@ There is no license copyright, no software copyright, no copyright whatsoever! W
 # Using the WTHPL in your projects
 
 1. Copy the [`LICENSE` file](https://raw.githubusercontent.com/UltCombo/WTHPL/master/LICENSE) to your project root.
-- ???
-- PROFIT!
+1. ???
+1. PROFIT!
 
 # Credits
 
 - Banlu Kemiyatorn - author and copyright holder of WTFPL v1.
 - Sam Hocevar - author and copyright holder of WTFPL v2.
-- [@UltCombo](https://github.com/UltCombo) / [@Ult_Combo](https://twitter.com/Ult_Combo) - author of WTHPL v1.0.0 (forked from WTFPL v2).
+- github.com/[UltCombo](https://github.com/UltCombo) / twitter.com/[Ult_Combo](https://twitter.com/Ult_Combo) - author of WTHPL v1.0.0 (forked from WTFPL v2).
